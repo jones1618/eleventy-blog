@@ -1,5 +1,5 @@
 {
-  "title": "Your Blog Name",
+  "title": "Sufficiently Advanced Magic",
   "url": "https://myurl.com/",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
@@ -9,7 +9,7 @@
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Stephen Jones",
+    "email": "srjones1618@gmail.com"
   }
 }
